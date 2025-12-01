@@ -16,3 +16,8 @@ Data Science Student | Passionate about Finance & Quantitative Analysis
 - SQL  
 - Git & GitHub  
 - Jupyter Notebooks  
+
+---
+
+### 📫 Contact
+- Email: mateuantolipablo@gmail.com
