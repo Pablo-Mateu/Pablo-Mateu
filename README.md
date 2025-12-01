@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Pablo Mateu
+Data Science Student | Passionate about Finance & Quantitative Analysis
 
-<!--
-**Pablo-Mateu/Pablo-Mateu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🎓 About Me  
+- Studying Applied Data Science at UOC  
+- Focused on financial markets, data analysis, and quantitative modelling  
+- Building a portfolio that combines Python, statistics and finance  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack  
+- Python (pandas, NumPy, Matplotlib, Scikit-learn)  
+- R  
+- SQL  
+- Git & GitHub  
+- Jupyter Notebooks  
